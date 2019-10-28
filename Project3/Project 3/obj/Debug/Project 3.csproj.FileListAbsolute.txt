@@ -1,0 +1,9 @@
+C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project3\Project 3\bin\Debug\Project 3.exe.config
+C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project3\Project 3\bin\Debug\Project 3.exe
+C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project3\Project 3\bin\Debug\Project 3.pdb
+C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project3\Project 3\obj\Debug\Project 3.csprojAssemblyReference.cache
+C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project3\Project 3\obj\Debug\Project_3.form.resources
+C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project3\Project 3\obj\Debug\Project_3.Properties.Resources.resources
+C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project3\Project 3\obj\Debug\Project 3.csproj.GenerateResource.cache
+C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project3\Project 3\obj\Debug\Project 3.exe
+C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project3\Project 3\obj\Debug\Project 3.pdb
