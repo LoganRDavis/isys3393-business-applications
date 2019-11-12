@@ -7,3 +7,13 @@ C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\ob
 C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.csproj.GenerateResource.cache
 C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.exe
 C:\Users\kelme\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.pdb
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\bin\Debug\windowsFormMenu.exe.config
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\bin\Debug\windowsFormMenu.exe
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\bin\Debug\windowsFormMenu.pdb
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.csprojAssemblyReference.cache
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.Form1.resources
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.Properties.Resources.resources
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.csproj.GenerateResource.cache
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.csproj.CoreCompileInputs.cache
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.exe
+D:\GitHub\ISYS3393-Business-Applications\Project2\windowsFormMenu\obj\Debug\windowsFormMenu.pdb
